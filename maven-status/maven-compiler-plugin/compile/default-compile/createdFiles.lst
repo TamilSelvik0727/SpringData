@@ -1,0 +1,9 @@
+com\kgisl\entity\Customer.class
+com\kgisl\exception\ResourceNotFoundException.class
+com\kgisl\config\PersistenceJPAConfig.class
+com\kgisl\config\AppInitializer.class
+com\kgisl\controller\CustomerController.class
+com\kgisl\service\CustomerServiceImpl.class
+com\kgisl\service\CustomerService.class
+com\kgisl\config\WebMvcConfig.class
+com\kgisl\repository\CustomerRepository.class
